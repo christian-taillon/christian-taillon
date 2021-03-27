@@ -26,6 +26,8 @@ When AFK, I try to get out and hike, kayak, or explore God's green earth in some
 <a target="_blank"><img alt="Splunk Enterprise" src="https://img.shields.io/badge/Splunk%20ES-FF375F?logo=splunk&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Kali" src="https://img.shields.io/badge/Katoolin-000911?logo=kali-linux&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="ELK" src="https://img.shields.io/badge/ELK-white?logo=elastic&logoColor=pink&style=flat"/></a> </br>
+<a target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-white?logo=trello&logoColor=blue&style=flat"/></a>
+<a target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=yellow&style=flat"/></a> </br>
 <a target="_blank"><img alt="IBM Threat Exchange" src="https://img.shields.io/badge/XForce-004BA8?logo=IBM&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal%20Graphs-white?logo=virustotal&logoColor=blue&style=flat"/></a>  </br>
 Source Code Control </br>
