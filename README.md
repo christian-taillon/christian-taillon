@@ -43,10 +43,10 @@ Source Code Control </br>
 </p>
 <p>
 <h4>☁ Cloud Experience: </h3>
-<p  >
-<a target="_blank"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-white?logo=digitalocean&logoColor=blue  &style=flat"/></a>
+<p>
+<a target="_blank"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-white?logo=digitalocean&logoColor=blue&style=flat"/></a>
 <a target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Azure-white?logo=microsoft-azure&logoColor=blue&style=flat"/></a>
-<a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange ?logo=amazon-aws&logoColor=black  &style=flat"/></a>
+<a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange ?logo=amazon-aws&logoColor=black&style=flat"/></a>
 </p>
 <h3 >Find me on</h3>
 <p > <a href="https://github.com/christian-taillon" target="_blank"><img alt="Github"
