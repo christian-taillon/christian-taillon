@@ -9,7 +9,7 @@ When I get what I want in the workday, I find myself in the hat of a <b>Splunk D
 Once the workday is over or scattered in between it, I contribute to <b>Threat Intelligence</b> community via research and as a <b> TI Content Developmer </b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas to contribute to others fighting cybercriminals.
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
-<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
+<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=onedark"/></a>
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h3>
 <p  >
@@ -36,7 +36,7 @@ Source Code Control </br>
 <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Bash-1E2742?logo=gnu-bash&style=flat&logoColor=white"/></a> </br>
 <a target="_blank"><img alt="PHP" src="https://img.shields.io/badge/php-7B99EE?logo=php&style=flat&logoColor=white"/></a>
 <a target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0082FF?logo=powershell&style=flat&logoColor=white"/></a> </br>
-<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-taillon&layout=compact&theme=dark"/></a>
+<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-taillon&layout=compact&theme=onedark"/></a>
 </p>
 <p>
 <h4> 💻 Favorite OS Flavors: </h3>
