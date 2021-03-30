@@ -9,7 +9,7 @@ When I get what I want in the workday, I find myself in the hat of a <b>Splunk D
 Once the workday is over or scattered in between it, I contribute to <b>Threat Intelligence</b> community via research and as a <b> TI Content Developmer </b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas to contribute to others fighting cybercriminals.
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
-<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=react"/></a>
+<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=slateorange"/></a>
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h3>
 <p  >
