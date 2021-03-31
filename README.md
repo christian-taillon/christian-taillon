@@ -81,5 +81,10 @@ src="https://img.shields.io/badge/XForce-004BA8?&style=flat&logo=ibm&logoColor=w
 <a href="https://otx.alienvault.com/user/tufteam67/pulses" target="_blank"><img alt="OTX"
 src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom&logoColor=white" /></a> <br></a>
 </p>
+
+<div style="text-align: center">
+<a href="https://github.com/christian-taillon">
+ <img align="center" src="https://github.com/christian-taillon/christian-taillon/blob/main/charts/bar_graph.png"></a>
+ </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
