@@ -69,6 +69,7 @@ Code Control </br>
 </p>
 <hr style="width:100%;text-align:center">
 
+<div style="text-align: center">
 <h3 style="text-align:center">Find me on</h3>
 <p style="text-align:center"> <a href="https://github.com/christian-taillon" target="_blank"><img alt="Github"
 src="https://img.shields.io/badge/GitHub-black?&style=flat&logo=Github&logoColor=white" /></a>
@@ -81,8 +82,6 @@ src="https://img.shields.io/badge/XForce-004BA8?&style=flat&logo=ibm&logoColor=w
 <a href="https://otx.alienvault.com/user/tufteam67/pulses" target="_blank"><img alt="OTX"
 src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom&logoColor=white" /></a> <br></a>
 </p>
-
-<div style="text-align: center">
 <a href="https://github.com/christian-taillon">
  <img align="center" src="https://github.com/christian-taillon/christian-taillon/blob/main/charts/bar_graph.png"></a>
  </div>
