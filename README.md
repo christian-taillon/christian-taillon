@@ -84,13 +84,11 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 </p>
  </div>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 81 Contributions in the Year 2021
+> 🏆 82 Contributions in the Year 2021
  > 
-> 📦 893 Bytes Used in Github's Storage 
+> 📦 910 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
