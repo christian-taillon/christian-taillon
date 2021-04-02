@@ -88,13 +88,13 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 > 🏆 82 Contributions in the Year 2021
  > 
-> 📦 915 Bytes Used in Github's Storage 
+> 📦 919 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
