@@ -86,9 +86,9 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 82 Contributions in the Year 2021
+> 🏆 84 Contributions in the Year 2021
  > 
-> 📦 919 Bytes Used in Github's Storage 
+> 📦 943 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
