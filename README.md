@@ -2,11 +2,11 @@
 
 I'm a <b> Threat Response Engineer </b>  out of the <b>Phoenix, Arizona</b>.
 
-I would like to spend most of my days working out of vim or atom, a few ssh sessions, and a web browser for <b>Splunk</b> and Googling. Still, as a <b>Security Engineer</b> who is invovled in leading Response for Incidents, I don't always get what I want.😉 When not playing the role of <b>MITRE:Incident Commander</b>, I find myself working on deploying or improving various security controls.
+I would like to spend most of my days working out of vim or atom, a few ssh sessions, and a web browser for <b>Splunk</b> and Googling. Still, as a <b>Security Engineer</b> who is involved in leading Response for Incidents, I don't always get what I want.😉 When not playing the role of <b>MITRE:Incident Commander</b>, I find myself working on deploying or improving various security controls.
 
 When I get what I want in the workday, I find myself in the hat of a <b>Splunk Developer </b>. One day, I hope to contribute significantly to the Splunk community and to wear the fez. 🙏
 
-Once the workday is over or scattered in between it, I contribute to <b>Threat Intelligence</b> community via research and as a <b> TI Content Developmer </b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas to contribute to others fighting cybercriminals.
+Once the workday is over or scattered in between it, I contribute to <b>Threat Intelligence</b> community via research and as a <b> TI Content Developer </b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas to contribute to others fighting cybercriminals.
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
@@ -73,12 +73,14 @@ Code Control </br>
 <h3 style="text-align:center">Find me on</h3>
 <p style="text-align:center"> <a href="https://github.com/christian-taillon" target="_blank"><img alt="Github"
 src="https://img.shields.io/badge/GitHub-black?&style=flat&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/christian-taillon" target="_blank"><img alt="Medium"
+src="https://img.shields.io/badge/Medium-white?&style=flat&logo=medium&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/christiantaillon/" target="_blank"><img alt="LinkedIn"
-src="https://img.shields.io/badge/Linkedin-white?&style=flat&logo=linkedin&logoColor=blue" /></a> <br></a>
+src="https://img.shields.io/badge/Linkedin-white?&style=flat&logo=linkedin&logoColor=blue" /></a> </br> </a>
 <a href="https://www.virustotal.com/gui/user/christianblueteam/graphs" target="_blank"><img alt="VirusTotal"
 src="https://img.shields.io/badge/VirusTotal-white?&style=flat&logo=virustotal&logoColor=blue" /></a>
 <a href="https://exchange.xforce.ibmcloud.com/user/me/aboutme" target="_blank"><img alt="IBM"
-src="https://img.shields.io/badge/XForce-004BA8?&style=flat&logo=ibm&logoColor=white" /></a> <br></a>
+src="https://img.shields.io/badge/XForce-004BA8?&style=flat&logo=ibm&logoColor=white" /></a> </a>
 <a href="https://otx.alienvault.com/user/tufteam67/pulses" target="_blank"><img alt="OTX"
 src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom&logoColor=white" /></a> <br></a>
 </p>
