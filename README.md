@@ -88,9 +88,9 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 84 Contributions in the Year 2021
+> 🏆 85 Contributions in the Year 2021
  > 
-> 📦 966 Bytes Used in Github's Storage 
+> 📦 972 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,13 +127,19 @@ Sunday       5 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   34.07% 
+Markdown                 1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.5% 
+Bash                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
+Other                    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Atom                     3 hrs 50 mins       ██████████████████░░░░░░░   72.77% 
+Vim                      1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   27.23%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 50 mins       ██████████████████░░░░░░░   72.77% 
+Linux                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   27.23%
 
 ```
 
