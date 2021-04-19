@@ -1,6 +1,7 @@
-<h1 align = "center"> Hello there, my name is Christian Taillon  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/waving_hand.gif" width="40px"></h1>
+<h1 align = "center"> Hello  world! <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/Earth.gif" width="40px"></h1> </br>
+My name is Christian Taillon  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/waving_hand.gif" width="40px"></h1>
 
-I'm a <b> Threat Response Engineer </b>  out of the <b>Phoenix, Arizona</b>.  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/Earth.gif" width="40px"></h1>
+I'm a <b> Threat Response Engineer </b>  out of the <b>Phoenix, Arizona</b>.  
 
 I would like to spend most of my days working out of vim or atom, a few ssh sessions, and a web browser for <b>Splunk</b> and Googling. Still, as a <b>Security Engineer</b> who is involved in leading Response for Incidents, I don't always get what I want.😉 When not playing the role of <b>MITRE:Incident Commander</b>, I find myself working on deploying or improving various security controls.
 
