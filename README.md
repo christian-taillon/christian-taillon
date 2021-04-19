@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello  world! <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/Earth.gif" width="40px"></h1> </br>
+<h1 align = "center"> Hello  world! <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/Earth.gif" width="40px"> </br>
 My name is Christian Taillon  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 I'm a <b> Threat Response Engineer </b>  out of the <b>Phoenix, Arizona</b>.  
