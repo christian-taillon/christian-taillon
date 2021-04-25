@@ -89,15 +89,15 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 89 Contributions in the Year 2021
+> 🏆 92 Contributions in the Year 2021
  > 
-> 📦 1.1 kB Used in Github's Storage 
+> 📦 1.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
