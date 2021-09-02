@@ -5,7 +5,7 @@ I'm a <b> Threat Response Engineer </b>  out of the <b>Phoenix, Arizona</b>.
 
 I would like to spend most of my days working out of vim or atom, a few ssh sessions, and a web browser for <b>Splunk</b> and Googling. Still, as a <b>Security Engineer</b> who is involved in leading Response for Incidents, I don't always get what I want.😉 When not playing the role of <b>MITRE:Incident Commander</b>, I find myself working on deploying or improving various security controls.
 
-When I get what I want in the workday, I find myself in the hat of a <b>Splunk Developer </b>. One day, I hope to contribute significantly to the Splunk community and to wear the fez. 🙏
+When I get what I want in the workday, I find myself in the hat of a <b>Splunk Developer </b>. 
 
 Once the workday is over or scattered in between it, I contribute to <b>Threat Intelligence</b> community via research and as a <b> TI Content Developer </b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas to contribute to others fighting cybercriminals.
 
@@ -92,67 +92,67 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6540%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 110 Contributions in the Year 2021
- > 
-> 📦 15.9 kB Used in Github's Storage 
- > 
+ >
+> 📦 15.9 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
+ >
+> 📜 20 Public Repositories
+ >
 > 🔑 6 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    58 commits     █████████░░░░░░░░░░░░░░░░   38.41% 
-🌆 Daytime    55 commits     █████████░░░░░░░░░░░░░░░░   36.42% 
-🌃 Evening    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
+🌞 Morning    58 commits     █████████░░░░░░░░░░░░░░░░   38.41%
+🌆 Daytime    55 commits     █████████░░░░░░░░░░░░░░░░   36.42%
+🌃 Evening    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54%
 🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
-Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
-Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Saturday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Monday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54%
+Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57%
+Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22%
+Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57%
+Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57%
+Saturday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57%
 Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.96%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Phoenix
 
-💬 Programming Languages: 
-Markdown                 2 hrs 34 mins       ███████████████████░░░░░░   77.06% 
-Python                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   22.92% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+💬 Programming Languages:
+Markdown                 2 hrs 34 mins       ███████████████████░░░░░░   77.06%
+Python                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   22.92%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-🔥 Editors: 
+🔥 Editors:
 Atom                     3 hrs 20 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  3 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5%
+Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
@@ -160,7 +160,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png)
 
 
  Last Updated on 28/08/2021
