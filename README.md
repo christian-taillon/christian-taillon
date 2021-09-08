@@ -3,11 +3,15 @@ My name is Christian Taillon  <img src="https://github.com/christian-taillon/chr
 
 I'm a <b> Threat Response Engineer </b>  out of the <b>Phoenix, Arizona</b>.  
 
-I would like to spend most of my days working out of vim or atom, a few ssh sessions, and a web browser for <b>Splunk</b> and Googling. Still, as a <b>Security Engineer</b> who is involved in leading Response for Incidents, I don't always get what I want.😉 When not playing the role of <b>MITRE:Incident Commander</b>, I find myself working on deploying or improving various security controls.
+I would like to spend most of my days working out of vim or atom, a few SSH sessions, and a web browser for <b>Splunk</b> and Googling. However, my day job involves supporting an awesome SOC in both solutions and operations, so I don't always get what I want. 😉 When not helping lead response for escalated incidents, I find myself  deploying or improving various security detection, monitoring, and response controls or leading development toward a mature <b>COTH</b> program.
 
-When I get what I want in the workday, I find myself in the hat of a <b>Splunk Developer </b>. 
+In support of our Security Operations, I find myself in the hat of a <b>Splunk Developer</b>.
 
-Once the workday is over or scattered in between it, I contribute to <b>Threat Intelligence</b> community via research and as a <b> TI Content Developer </b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas to contribute to others fighting cybercriminals.
+Once the workday is over or scattered in between it, I contribute to the <b>Threat Intelligence</b> community via research and as a <b> TI Content Developer</b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cybercriminals.
+
+I am a Core Contributor for <b>Arizona Cyber Threat Response Alliance (ACTRA)</b>. I lead the Technical Exchange Roundtable, and I am a Lead for the Virtual Subject Matter Experts Handlers. Additionally, I am an instructor at ACTRA's Academy.
+
+For the <b>Cyber Resiliency Institute</b>, I am a <b>Cyber Solutions Architect</b>. I have contributed to events such as the <b>Tokyo 2020 Olympic</b> games on the <b>COTH</b> team.
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
@@ -92,69 +96,69 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6540%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 114 Contributions in the Year 2021
- > 
-> 📦 20.7 kB Used in Github's Storage 
- > 
+ >
+> 📦 20.7 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
+ >
+> 📜 21 Public Repositories
+ >
 > 🔑 6 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    58 commits     █████████░░░░░░░░░░░░░░░░   37.91% 
-🌆 Daytime    55 commits     █████████░░░░░░░░░░░░░░░░   35.95% 
-🌃 Evening    30 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61% 
+🌞 Morning    58 commits     █████████░░░░░░░░░░░░░░░░   37.91%
+🌆 Daytime    55 commits     █████████░░░░░░░░░░░░░░░░   35.95%
+🌃 Evening    30 commits     █████░░░░░░░░░░░░░░░░░░░░   19.61%
 🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.3% 
-Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Monday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.3%
+Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+Wednesday    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65%
+Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03%
 Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Phoenix
 
-💬 Programming Languages: 
-Markdown                 6 hrs 18 mins       ████████████████████░░░░░   83.14% 
-Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
-PowerShell               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+💬 Programming Languages:
+Markdown                 6 hrs 18 mins       ████████████████████░░░░░   83.14%
+Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17%
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01%
+PowerShell               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
-🔥 Editors: 
+🔥 Editors:
 Atom                     7 hrs 34 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
-Windows                  5 hrs 59 mins       ███████████████████░░░░░░   79.05% 
+💻 Operating System:
+Windows                  5 hrs 59 mins       ███████████████████░░░░░░   79.05%
 Linux                    1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.95%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5%
+Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
@@ -162,7 +166,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png)
 
 
  Last Updated on 08/09/2021
