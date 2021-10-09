@@ -137,17 +137,13 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Bash                     1 hr 5 mins         ████████████████████████░   97.61% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     58 mins             █████████████████████░░░░   87.23% 
-Vim                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -168,5 +164,5 @@ YARA                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
