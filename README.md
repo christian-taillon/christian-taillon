@@ -98,13 +98,13 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 **🐱 My GitHub Data** 
 
-> 🏆 122 Contributions in the Year 2021
+> 🏆 123 Contributions in the Year 2021
  > 
 > 📦 55.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -137,13 +137,19 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 30 mins       ███████████████████░░░░░░   75.72% 
+Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           2 hrs 30 mins       ███████████████████░░░░░░   75.72% 
+Atom                     48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28% 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               2 hrs 30 mins       ███████████████████░░░░░░   75.72% 
+Linux                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28%
 
 ```
 
@@ -164,5 +170,5 @@ YARA                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2021
+ Last Updated on 13/10/2021
 <!--END_SECTION:waka-->
