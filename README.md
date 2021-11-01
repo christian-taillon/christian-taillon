@@ -12,6 +12,8 @@ Once the workday is over and scattered in between, I contribute to the <b>Threat
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
 #### Current Roles
+In Cybersecurity, we don't have the luxury of time. Our work demands persistence, proactivity, and collaboration. I believe that you don't need to work at the same company to be on the same team.
+
 [Grand Canyon Education](https://www.gce.com/) <br>
 My day job is as a <b> Threat Response Engineer </b> working out of the <b>Phoenix, Arizona</b> area. I was also responsible for developing a Threat Intelligence and now Threat Hunting program. In this role, I am also responsible for handling most of our <b>Cyber Forensic Analysis</b>.
 
