@@ -36,7 +36,7 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="IBM Threat Exchange" src="https://img.shields.io/badge/XForce-004BA8?logo=IBM&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal%20Graphs-white?logo=virustotal&logoColor=blue&style=flat"/></a>  </br>
 <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=1793D1&style=flat"/></a>
-<h4>💾 Code Control </h4>
+<h4>💾 Code Control:</h3>
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&style=flat"/></a>
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E?logo=GitHub&style=flat"/></a>
 <a target="_blank"><img alt="DevOps" src="https://img.shields.io/badge/Azure%20DevOps-white?logo=azure-devops&logoColor=blue&style=flat"/></a>
