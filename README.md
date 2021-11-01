@@ -1,6 +1,16 @@
 <h1 align = "center"> Hello  world! <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/Earth.gif" width="40px"> </br>
 My name is Christian Taillon  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/waving_hand.gif" width="40px"></h1>
 
+
+I am a Christian first, a husband to a wonderful wife second, a Cyber Security Practitioner third, and an novice developer fourth.  
+
+In my day job, my primary responsibility is collecting security logs and making the data work for us in our SIEM of choice, <b>Splunk</b>. My aim in this work is to to leverage conditional search logic and commands and enrich events with context to reduce time to triage and make the data work for the analyst.  
+
+I would love to spend most of my days working out of vim or atom, a few SSH sessions, and a web browser and build cool dashboards, searches, and tools in <b>Splunk</b>. However, my day job involves supporting a fantastic SOC in both solutions and operations, so I don't always get what I want. 😉 When not helping lead response for escalated incidents, I find myself  deploying or improving various security detection, monitoring, and response controls or leading development toward a mature <b>COTH</b> program.
+
+Once the workday is over and scattered in between, I contribute to the <b>Threat Intelligence</b> community via research and <b> TI Content Development</b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cyber-criminals.
+
+When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
 #### Current Roles
 [Grand Canyon Education](https://www.gce.com/) <br>
 My day job is as a <b> Threat Response Engineer </b> working out of the <b>Phoenix, Arizona</b> area. I was also responsible for developing a Threat Intelligence and now Threat Hunting program. In this role, I am also responsible for handling most of our <b>Cyber Forensic Analysis</b>.
@@ -11,14 +21,6 @@ I am also a <b>Global Watch Center Handler</b> and Core Contributor for ACTRA. I
 [Cyber Resiliency Institute](https://www.cyberresilienceinstitute.org/) <br>
 And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Additionally, on the CRI's Sports-ISAO program, I am a <b>Cyber Observable Threat Hunting Team</b> member. We recently supported the Threat Intelligence operations of the Tokyo Olympics.
 
-<b>README.ME</b> <br>
-In my day job, my primary responsibility has to be collecting security logs and making the data work for us in our SIEM of choice, <b>Splunk</b>. My aim in this work is to to leverage conditional search logic and commands and enrich events with context to reduce time to triage and make the data work for the analyst.  
-
-I would love to spend most of my days working out of vim or atom, a few SSH sessions, and a web browser and build cool dashboards, searches, and tools in <b>Splunk</b>. However, my day job involves supporting a fantastic SOC in both solutions and operations, so I don't always get what I want. 😉 When not helping lead response for escalated incidents, I find myself  deploying or improving various security detection, monitoring, and response controls or leading development toward a mature <b>COTH</b> program.
-
-Once the workday is over and scattered in between, I contribute to the <b>Threat Intelligence</b> community via research and <b> TI Content Development</b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cyber-criminals.
-
-When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h3>
