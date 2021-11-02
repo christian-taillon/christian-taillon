@@ -4,11 +4,11 @@ My name is Christian Taillon  <img src="https://github.com/christian-taillon/chr
 
 I am a Christian first, a husband to a wonderful wife second, a Cyber Security Practitioner third, and an novice developer fourth.  
 
-In my day job, my primary responsibility is collecting security logs and making the data work for us in our SIEM of choice, <b>Splunk</b>. My aim in this work is to to leverage conditional search logic and commands and enrich events with context to reduce time to triage and make the data work for the analyst.  
+In my day job, I contribute to Grand Canyon Education's IT Security team as a Threat Response Engineer. My efforts focus on improving the Security team's operational tools and capabilities to efficiently detect and effectively respond to threats. This is done primarily through work relating to <b>SIEM</b>, <b>EDR</b>, <b>NTA</b>, and an evolving <b>Threat Intelligence</b> program.
 
 I would love to spend most of my days working out of vim or atom, a few SSH sessions, and a web browser and build cool dashboards, searches, and tools in <b>Splunk</b>. However, my day job involves supporting a fantastic SOC in both solutions and operations, so I don't always get what I want. 😉 When not helping lead response for escalated incidents, I find myself  deploying or improving various security detection, monitoring, and response controls or leading development toward a mature <b>COTH</b> program.
 
-Once the workday is over and scattered in between, I contribute to the <b>Threat Intelligence</b> community via research and <b> TI Content Development</b>. I love to mess around in the fun world of <b>DevOps</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cyber-criminals.
+Once the workday is over and scattered in between, I enjoy contributing to the <b>Threat Intelligence</b> community via research and <b> TI Content Development</b>. I love to mess around in the fun world of <b>DevOps</b> and <b>Red Team Automation</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cyber-criminals.
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
 #### Current Roles
