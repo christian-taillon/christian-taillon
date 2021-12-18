@@ -105,7 +105,7 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
  ![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
@@ -150,16 +150,18 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Markdown                 3 hrs 47 mins       ████████████████████████░   95.76% 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.24% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   34.58% 
+JSON                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55% 
+Python                   38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68% 
+CSV                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
 
 🔥 Editors: 
-Atom                     3 hrs 56 mins       █████████████████████████   99.83% 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+Atom                     3 hrs 15 mins       ████████████████████████░   98.99% 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
 
 💻 Operating System: 
-Linux                    3 hrs 57 mins       █████████████████████████   100.0%
+Linux                    3 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -180,5 +182,5 @@ YARA                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
