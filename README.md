@@ -2,7 +2,7 @@
 My name is Christian Taillon  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 
-I am a Christian first, a husband to a wonderful wife second, a Cyber Security Practitioner third, and an novice developer fourth.  
+I am a Christian first, a husband to a wonderful wife second, a Cyber Security Practitioner third, and an novice developer fourth.
 
 In my day job, I contribute to Grand Canyon Education's IT Security team as a Threat Response Engineer. My efforts focus on improving the Security team's operational tools and capabilities to efficiently detect and effectively respond to threats. This is done primarily through work relating to <b>SIEM</b>, <b>EDR</b>, <b>NTA</b>, and an evolving <b>Threat Intelligence</b> program.
 
@@ -24,6 +24,13 @@ I am also a <b>Global Watch Center Handler</b> and Core Contributor for ACTRA. I
 And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Additionally, on the CRI's Sports-ISAO program, I am a <b>Cyber Observable Threat Hunting Team</b> member. We recently supported the Threat Intelligence operations of the Tokyo Olympics.
 
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
+
+<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-taillon&layout=compact&theme=vue-dark"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-taillon&theme=vue-dark" alt="christian-taillon" /></p>
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h3>
 <p  >
@@ -50,7 +57,6 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Bash-1E2742?logo=gnu-bash&style=flat&logoColor=white"/></a> </br>
 <a target="_blank"><img alt="PHP" src="https://img.shields.io/badge/php-7B99EE?logo=php&style=flat&logoColor=white"/></a>
 <a target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0082FF?logo=powershell&style=flat&logoColor=white"/></a> </br>
-<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-taillon&layout=compact&theme=vue-dark"/></a>
 </p>
 <p>
 <h4> 💻 Favorite OS Flavors: </h3>
@@ -111,64 +117,64 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 144 Contributions in the Year 2021
- > 
-> 📦 55.3 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 55.3 kB Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 25 Public Repositories
+ >
+> 🔑 6 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    66 commits     █████████░░░░░░░░░░░░░░░░   38.15% 
-🌆 Daytime    63 commits     █████████░░░░░░░░░░░░░░░░   36.42% 
-🌃 Evening    34 commits     █████░░░░░░░░░░░░░░░░░░░░   19.65% 
+🌞 Morning    66 commits     █████████░░░░░░░░░░░░░░░░   38.15%
+🌆 Daytime    63 commits     █████████░░░░░░░░░░░░░░░░   36.42%
+🌃 Evening    34 commits     █████░░░░░░░░░░░░░░░░░░░░   19.65%
 🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.81% 
-Tuesday      29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-Wednesday    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
+Monday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.81%
+Tuesday      29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
+Wednesday    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5%
+Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
+Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87%
+Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29%
 Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Phoenix
 
-💬 Programming Languages: 
+💬 Programming Languages:
 Text                     7 mins              █████████████████████████   100.0%
 
-🔥 Editors: 
+🔥 Editors:
 Atom                     7 mins              █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    7 mins              █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5%
+Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
@@ -176,7 +182,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png)
 
 
  Last Updated on 29/12/2021
