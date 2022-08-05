@@ -29,7 +29,7 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-taillon&theme=vue-dark" alt="christian-taillon" /></p>
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h3>
