@@ -1,8 +1,15 @@
-<h1 align = "center"> Hello  world! <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/Earth.gif" width="40px"> </br>
-My name is Christian Taillon  <img src="https://github.com/christian-taillon/christian-taillon/blob/main/images/waving_hand.gif" width="40px"></h1>
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<h1 align = "center"> Hello  world! 😁</h1>
+
+<h2 align="center"> My name is Christian Taillon</h2>
 
 
-I am a Christian first, a husband to a wonderful wife second, a Cyber Security Practitioner third, and an novice developer fourth.
+I am a Christian, a husband to a wonderful wife, a Cyber Security Practitioner, and a very novice developer.
 
 In my day job, I contribute to Grand Canyon Education's IT Security team as a Threat Response Engineer. My efforts focus on improving the Security team's operational tools and capabilities to efficiently detect and effectively respond to threats. This is done primarily through work relating to <b>SIEM</b>, <b>EDR</b>, <b>NTA</b>, and an evolving <b>Threat Intelligence</b> program.
 
@@ -10,7 +17,7 @@ I would love to spend most of my days working out of vim or atom, a few SSH sess
 
 Once the workday is over and scattered in between, I enjoy contributing to the <b>Threat Intelligence</b> community via research and <b> TI Content Development</b>. I love to mess around in the fun world of <b>DevOps</b> and <b>Red Team Automation</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cyber-criminals.
 
-When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. </br> </br>
+When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. <br> <br>
 #### Current Roles
 In Cybersecurity, we don't have the luxury of time. Our work demands persistence, proactivity, and collaboration. I believe that you don't need to work at the same company to be on the same team.
 
@@ -26,11 +33,10 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
 
 <a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-taillon&layout=compact&theme=vue-dark"/></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-taillon&theme=vue-dark" alt="christian-taillon" /></p>
-</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-taillon&theme=vue-dark" alt="christian-taillon"/></p>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h4>
@@ -73,11 +79,14 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Azure-white?logo=microsoft-azure&logoColor=blue&style=flat"/></a>
 <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange ?logo=amazon-aws&logoColor=black&style=flat"/></a>
 </p>
-<h4> ‍🖼️ Topics I Present </h4>
+<h4> ‍🖼️ Topics I Can Readily Present On</h4>
 <p>
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-🐺%20Threat%20Hunting%20Effectively%20-orange?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="CTIHunting" src="https://img.shields.io/badge/-🐺%20CTI%20Driven%20Threat%20Hunting-darkred?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-📈%20Threat%20Intelligence:Make%20Data%20Work%20for%20You-yellow?logo=&logoColor=white&style=flat"/></a> <br>
-<a target="_blank"><img alt="SupplyChain" src="https://img.shields.io/badge/-🗡️Supply%20Chain%20Attacks:%20OpenSource-red?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="SupplyChain" src="https://img.shields.io/badge/-🗡️Supply%20Chain%20Attacks:%20OpenSource-lightred?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="Forensics" src="https://img.shields.io/badge/-🖫Forensics:%20OpenSource-green?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="MallardSpider: QakBot" src="https://img.shields.io/badge/-🕷Mallard%20Spider:%20QakBot-brown?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="ModernSoc" src="https://img.shields.io/badge/-📟%20Modernizing%20The%20SOC-purple?logo=&logoColor=white&style=flat"/></a> <br>
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-📱%20SIEM:%20Centralizing%20SecOps-blue?logo=&logoColor=white&style=flat"/></a>
 </p>
@@ -111,74 +120,75 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 
 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 149 Contributions in the Year 2022
- > 
-> 📦 187.4 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 187.4 kB Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 39 Public Repositories
+ >
+> 🔑 8 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    66 commits     ███████░░░░░░░░░░░░░░░░░░   31.13% 
-🌆 Daytime    91 commits     ██████████░░░░░░░░░░░░░░░   42.92% 
-🌃 Evening    50 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
+🌞 Morning    66 commits     ███████░░░░░░░░░░░░░░░░░░   31.13%
+🌆 Daytime    91 commits     ██████████░░░░░░░░░░░░░░░   42.92%
+🌃 Evening    50 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58%
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       56 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Wednesday    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
-Thursday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.28% 
-Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+Monday       56 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42%
+Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.74%
+Wednesday    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92%
+Thursday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15%
+Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.28%
+Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
 Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Phoenix
 
-💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.4% 
-sh                       1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   35.16% 
-Terraform                49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72% 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
+💬 Programming Languages:
+Markdown                 1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.4%
+sh                       1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   35.16%
+Terraform                49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72%
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
-🔥 Editors: 
-Atom                     2 hrs 28 mins       ████████████████░░░░░░░░░   64.84% 
+🔥 Editors:
+Atom                     2 hrs 28 mins       ████████████████░░░░░░░░░   64.84%
 Zsh                      1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   35.16%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    3 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in Shell**
 
 ```text
-Shell                    6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Shell                    6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0%
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0%
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
@@ -186,7 +196,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/charts/bar_graph.png)
 
 
  Last Updated on 05/11/2022 20:43:18 UTC
