@@ -122,7 +122,7 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.2%20thousand%20lines%20of%20code-blue)
 
@@ -130,11 +130,11 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 > 📦 203.8 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2023
+> 🏆 53 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -165,18 +165,17 @@ Sunday                   37 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-sh                       3 hrs 53 mins       █████████████░░░░░░░░░░░░   52.06 % 
-Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Nginx configuration file 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Other                    2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.85 % 
+sh                       1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Zsh                      3 hrs 53 mins       █████████████░░░░░░░░░░░░   52.06 % 
-Atom                     3 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.94 % 
+Atom                     2 hrs 54 mins       █████████████████░░░░░░░░   68.49 % 
+Zsh                      1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.51 % 
 
 💻 Operating System: 
-Linux                    7 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -196,5 +195,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2023 20:32:31 UTC
+ Last Updated on 27/05/2023 20:32:52 UTC
 <!--END_SECTION:waka-->
