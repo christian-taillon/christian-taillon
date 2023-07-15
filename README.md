@@ -122,7 +122,7 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.5%20thousand%20lines%20of%20code-blue)
 
@@ -165,13 +165,16 @@ Sunday                   37 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 10 mins       ████████████████████░░░░░   79.84 % 
+sh                       31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Pulsar                   2 hrs 11 mins       ████████████████████░░░░░   80.57 % 
+Zsh                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +194,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2023 20:32:46 UTC
+ Last Updated on 15/07/2023 20:32:42 UTC
 <!--END_SECTION:waka-->
