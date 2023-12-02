@@ -122,13 +122,13 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-445%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 205.0 kB Used in GitHub's Storage 
+> 📦 205.1 kB Used in GitHub's Storage 
  > 
 > 🏆 166 Contributions in the Year 2023
  > 
@@ -165,17 +165,14 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Python                   50 mins             █████████████████░░░░░░░░   66.66 % 
-Bash                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    27 mins             ███████████████░░░░░░░░░░   61.67 % 
+Bash                     17 mins             ██████████░░░░░░░░░░░░░░░   38.33 % 
 
 🔥 Editors: 
-Pulsar                   1 hr 15 mins        █████████████████████████   100.00 % 
+Pulsar                   44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -195,5 +192,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2023 20:32:44 UTC
+ Last Updated on 02/12/2023 20:32:34 UTC
 <!--END_SECTION:waka-->
