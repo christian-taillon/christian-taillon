@@ -122,7 +122,7 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.7%20thousand%20lines%20of%20code-blue)
 
@@ -165,15 +165,17 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         █████████████░░░░░░░░░░░░   52.11 % 
-Bash                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Python                   2 hrs 48 mins       █████████████████████████   98.17 % 
+sh                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Pulsar                   2 hrs 8 mins        █████████████████████████   100.00 % 
+Pulsar                   2 hrs 50 mins       █████████████████████████   98.81 % 
+Zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Linux                    2 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -193,5 +195,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2023 20:32:39 UTC
+ Last Updated on 30/12/2023 20:32:36 UTC
 <!--END_SECTION:waka-->
