@@ -128,7 +128,7 @@ src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom
 
 **🐱 My GitHub Data** 
 
-> 📦 210.4 kB Used in GitHub's Storage 
+> 📦 210.3 kB Used in GitHub's Storage 
  > 
 > 🏆 134 Contributions in the Year 2024
  > 
@@ -165,13 +165,13 @@ Sunday                   45 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-sh                       4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +191,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 17:52:19 UTC
+ Last Updated on 21/12/2024 20:32:40 UTC
 <!--END_SECTION:waka-->
