@@ -8,10 +8,11 @@ permalink: /about/
 
 <h2 align="center"> My name is Christian Taillon</h2>
 
-I am a Christian, husband, and a father to a beautiful wonderful girl. 
+I am a Christian, husband, and a father to a beautiful and wonderful girl first and foremost. 
 
-I work in the field of CyberSecurity with hobbies in the domain of [ linux  ]
-I am a Christian, a husband to a wonderful wife, a Cyber Security Practitioner, and a very novice developer.
+Highly motivated by interest, the responsibility of providing for my family, and a concern but also an optimism for the future.
+
+I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning and llm ]. 
 
 In my day job at [Grand Canyon Education](https://www.gce.com/)'s IT Security team, I work as a Threat Response Engineer. My focus is on deploying, maintaining, or enhancing operational tools for threat detection, prevention, and response using **[SIEM](https://christiant.io/spl)**, **[EDR](https://christiant.io/logscale_beg_guide)**, **[NTA](https://christiant.io/snort-suricata-guide)**. I also lead security efforts in several **Vulnerability** areas: **Code Security**, **Cloud Security**, and **Host Vulnerability Detection**. We maintain  small Threat Huntting practice **[Threat Hunting](https://christiantaillon.medium.com/part-time-threat-hunting-considering-its-efficacy-85598a9d339) and an reliy on a growing **Threat Intelligence** program.
 
