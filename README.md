@@ -14,7 +14,7 @@ Highly curious and motivated by interest, the responsibility of providing for my
 
 I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning llms data-analysis ]. 
 
-`Check out my Website at [christiant.io](https://christiant.io/)`
+Check out my Website at [christiant.io](https://christiant.io/)
 
 ## `TL;DR`
 
