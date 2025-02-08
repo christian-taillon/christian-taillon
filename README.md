@@ -8,21 +8,23 @@ permalink: /about/
 
 <h2 align="center"> My name is Christian Taillon</h2>
 
+I am a Christian, husband, and a father to a beautiful wonderful girl. 
 
+I work in the field of CyberSecurity with hobbies in the domain of [ linux  ]
 I am a Christian, a husband to a wonderful wife, a Cyber Security Practitioner, and a very novice developer.
 
-In my day job, I contribute to Grand Canyon Education's IT Security team as a Threat Response Engineer. My efforts focus on improving the Security team's operational tools and capabilities to efficiently detect and effectively respond to threats. This is done primarily through work relating to <b>SIEM</b>, <b>EDR</b>, <b>NTA</b>, and an evolving <b>Threat Intelligence</b> program.
+In my day job at [Grand Canyon Education](https://www.gce.com/)'s IT Security team, I work as a Threat Response Engineer. My focus is on deploying, maintaining, or enhancing operational tools for threat detection, prevention, and response using **[SIEM](https://christiant.io/spl)**, **[EDR](https://christiant.io/logscale_beg_guide)**, **[NTA](https://christiant.io/snort-suricata-guide)**. I also lead security efforts in several **Vulnerability** areas: **Code Security**, **Cloud Security**, and **Host Vulnerability Detection**. We maintain  small Threat Huntting practice **[Threat Hunting](https://christiantaillon.medium.com/part-time-threat-hunting-considering-its-efficacy-85598a9d339) and an reliy on a growing **Threat Intelligence** program.
 
-I would love to spend most of my days working out of vim or atom, a few SSH sessions, and a web browser and build cool dashboards, searches, and tools in <b>Splunk</b>. However, my day job involves supporting a fantastic SOC in both solutions and operations, so I don't always get what I want. 😉 When not helping lead response for escalated incidents, I find myself  deploying or improving various security detection, monitoring, and response controls or leading development toward a mature <b>COTH</b> program.
+Outside work, I am a strong believe in the effecicacy and efficiency of OpenSource with minor contributions to the [OpenWebUI](https://openwebui.com/u/christiant/) community and a decently active GitHub with with most of my repositories being public (MIT/Apache Licensed). 
 
-Once the workday is over and scattered in between, I enjoy contributing to the <b>Threat Intelligence</b> community via research and <b> TI Content Development</b>. I love to mess around in the fun world of <b>DevOps</b> and <b>Red Team Automation</b> in my home lab. Excited about the role of <b>DevSecOps</b>. While I spend most of my time in Ops, I am working to improve myself as a developer to actualize ideas and contribute to others fighting cyber-criminals.
+I also contribute to the **Threat Intelligence** community via my role in leading the [Arizona Cyber Threat Response Alliance](https://actraaz.org/), Threat Hunting Presenations such as [Beconimg the Predator and Not the Prey](https://www.youtube.com/watch?v=f4kPxj9jzqU) and [Qbot: Can Ducks Teach us to Shre](https://www.youtube.com/live/UDQAMxdofkY?si=B9sX04JDvrZsltn5), research and content development such as [Log4Shell Hunt](https://github.com/christian-taillon/log4shell-hunting) and [Sunburst Hunt](https://github.com/christian-taillon/sunburst-hunting). It is in both a [Grand Canyon University](https://www.gcu.edu/) capacity and an ACTRA capacity that I support a growing student ThreatIntelligence Academy and Apprentiship Program [TISU](https://www.youtube.com/watch?v=_4uO6nu93I8).
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. <br> <br>
 #### Current Roles
 In Cybersecurity, we don't have the luxury of time. Our work demands persistence, proactivity, and collaboration. I believe that you don't need to work at the same company to be on the same team.
 
 [Grand Canyon Education](https://www.gce.com/) <br>
-My day job is as a <b> Threat Response Engineer </b> working out of the <b>Phoenix, Arizona</b> area. I was also responsible for developing a Threat Intelligence and now Threat Hunting program. In this role, I am also responsible for handling most of our <b>Cyber Forensic Analysis</b>.
+My day job is as a <b> Threat Response Engineer </b> working out of the <b>Phoenix, Arizona</b> area. .
 
 [Arizona Cyber Threat Response Alliance](https://www.actraaz.org/) <br>
 I am also a <b>Global Watch Center Handler</b> and Core Contributor for ACTRA. I also lead our Threat Intelligence Exchanges, help develop tools for our operations, and I am an instructor at ACTRA's Academy.
