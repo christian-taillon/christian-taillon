@@ -6,13 +6,15 @@ permalink: /about/
 
 <h1 align = "center"> Hello  world! 😁</h1>
 
-<h2 align="center"> My name is Christian Taillon</h2>
+<h2 align="center">`My name is Christian Taillon`</h2>
 
-I am a Christian, husband, and a father to a beautiful and wonderful girl first and foremost. 
+Christ is my Lord whom I follow the best I can. I am husband to my beautiful bestfriend and a father to a beautiful and wonderful girl. 
 
-Highly motivated by interest, the responsibility of providing for my family, and a concern but also an optimism for the future.
+Highly curious and motivated by interest, the responsibility of providing for my family, and a concern but also an optimism for the future.
 
-I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning and llm ]. 
+I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning llms data-analysis ]. 
+
+`Check out my Website at [christiant.io](https://christiant.io/)`
 
 ## `TL;DR`
 
@@ -33,7 +35,7 @@ Outside work, I am a strong believe in the effecicacy and efficiency of OpenSour
 I also contribute to the **Threat Intelligence** community via my role in leading the [Arizona Cyber Threat Response Alliance](https://actraaz.org/), Threat Hunting Presenations such as [Beconimg the Predator and Not the Prey](https://www.youtube.com/watch?v=f4kPxj9jzqU) and [Qbot: Can Ducks Teach us to Shre](https://www.youtube.com/live/UDQAMxdofkY?si=B9sX04JDvrZsltn5), research and content development such as [Log4Shell Hunt](https://github.com/christian-taillon/log4shell-hunting) and [Sunburst Hunt](https://github.com/christian-taillon/sunburst-hunting). It is in both a [Grand Canyon University](https://www.gcu.edu/) capacity and an ACTRA capacity that I support a growing student ThreatIntelligence Academy and Apprentiship Program [TISU](https://www.youtube.com/watch?v=_4uO6nu93I8).
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. <br> <br>
-## Current Roles
+## `Current Roles`
 In Cybersecurity, we don't have the luxury of time. Our work demands persistence, proactivity, and collaboration. I believe that you don't need to work at the same company to be on the same team.
 
 [Grand Canyon Education](https://www.gce.com/) <br>
@@ -54,7 +56,7 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 [![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr style="width:75%;text-align:center">
-<h4>⚒ Favorite Tools:</h4>
+<h4>`⚒ Favorite Tools:`</h4>
 <p>
 <a target="_blank"><img alt="Atom" src="https://img.shields.io/badge/Atom-15FF70?logo=atom&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-white?logo=visual-studio&style=flat&logoColor=purple"/></a>
@@ -67,12 +69,12 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="IBM Threat Exchange" src="https://img.shields.io/badge/XForce-004BA8?logo=IBM&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal%20Graphs-white?logo=virustotal&logoColor=blue&style=flat"/></a>  <br>
 <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=1793D1&style=flat"/></a>
-<h4>💾 Code Control:</h4>
+<h4>`💾 Code Control:`</h4>
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&style=flat"/></a>
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E?logo=GitHub&style=flat"/></a>
 <a target="_blank"><img alt="DevOps" src="https://img.shields.io/badge/Azure%20DevOps-white?logo=azure-devops&logoColor=blue&style=flat"/></a>
 </p>
-<h4>📄 Favorite Languages:</h4>
+<h4>`📄 Favorite Languages:`</h4>
 <p  >
 <a target="_blank"><img alt="Splunk" src="https://img.shields.io/badge/-Splunk-FF375F?logo=splunk&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-1793D1?logo=python&style=flat&logoColor=yellow"/></a>
@@ -81,20 +83,20 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0082FF?logo=powershell&style=flat&logoColor=white"/></a> <br>
 </p>
 <p>
-<h4> 💻 Favorite OS Flavors: </h4>
+<h4>`💻 Favorite OS Flavors: `</h4>
 <p  >
 <a target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-white?logo=Debian&logoColor=red&style=flat"/></a>
 <a target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat"/></a>
 </p>
 <p>
-<h4>☁ Cloud Experience: </h4>
+<h4>`☁ Cloud Experience: `</h4>
 <p>
 <a target="_blank"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-white?logo=digitalocean&logoColor=blue&style=flat"/></a>
 <a target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Azure-white?logo=microsoft-azure&logoColor=blue&style=flat"/></a>
 <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange ?logo=amazon-aws&logoColor=black&style=flat"/></a>
 </p>
-<h4> ‍🖼️ Topics I Can Readily Present On</h4>
+<h4>` ‍🖼️ Topics I Can Readily Present On`</h4>
 <p> 
 I love to share what little knowledge I've collected as others doing the same has been a big part of whats allowed me to enjoy a successful career in Cyber and IT. Please reachout if I can share on any of the following topics: 
 
