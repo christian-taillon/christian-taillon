@@ -57,41 +57,31 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h4>
+<a target="_blank"><img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Atom" src="https://img.shields.io/badge/Atom-15FF70?logo=atom&logoColor=white&style=flat"/></a>
-<p>
-<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-white?logo=visual-studio&style=flat&logoColor=purple"/></a>
+<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&style=flat&logoColor=white"/></a>
 <a target="_blank"><img alt="Vim" src="https://img.shields.io/badge/Vim-00AB42?logo=vim&logoColor=white&style=flat"/></a> <br>
-<a target="_blank"><img alt="Splunk Enterprise" src="https://img.shields.io/badge/Splunk%20ES-FF375F?logo=splunk&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="Splunk Enterprise" src="https://img.shields.io/badge/Splunk-FF375F?logo=splunk&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Kali" src="https://img.shields.io/badge/Katoolin-000911?logo=kali-linux&logoColor=white&style=flat"/></a>
-<a target="_blank"><img alt="ELK" src="https://img.shields.io/badge/ELK-white?logo=elastic&logoColor=pink&style=flat"/></a> <br>
-<a target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-white?logo=trello&logoColor=blue&style=flat"/></a>
+<a target="_blank"><img alt="ELK" src="https://img.shields.io/badge/ELK-white?logo=elastic&logoColor=pink&style=flat"/></a> 
+<a target="_blank"><img alt="Podman" src="https://img.shields.io/badge/Podman-white?logo=podman&logoColor=purple&style=flat"/></a>
 <a target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=yellow&style=flat"/></a> <br>
 <a target="_blank"><img alt="IBM Threat Exchange" src="https://img.shields.io/badge/XForce-004BA8?logo=IBM&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal%20Graphs-white?logo=virustotal&logoColor=blue&style=flat"/></a>  <br>
-<a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=1793D1&style=flat"/></a>
-<h4>💾 Code Control:</h4>
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&style=flat"/></a>
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E?logo=GitHub&style=flat"/></a>
-<a target="_blank"><img alt="DevOps" src="https://img.shields.io/badge/Azure%20DevOps-white?logo=azure-devops&logoColor=blue&style=flat"/></a>
-</p>
-<h4>📄 Favorite Languages:</h4>
-<p  >
-<a target="_blank"><img alt="Splunk" src="https://img.shields.io/badge/-Splunk-FF375F?logo=splunk&logoColor=white&style=flat"/></a>
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-1793D1?logo=python&style=flat&logoColor=yellow"/></a>
-<a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Bash-1E2742?logo=gnu-bash&style=flat&logoColor=white"/></a> <br>
-<a target="_blank"><img alt="PHP" src="https://img.shields.io/badge/php-7B99EE?logo=php&style=flat&logoColor=white"/></a>
-<a target="_blank"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0082FF?logo=powershell&style=flat&logoColor=white"/></a> <br>
-</p>
 <p>
 <h4>💻 Favorite OS Flavors: </h4>
 <p  >
 <a target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-white?logo=Debian&logoColor=red&style=flat"/></a>
+<a target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Fedora-blue?logo=Fedora&logoColor=light-blue&style=flat"/></a>
 <a target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat"/></a>
 </p>
 <p>
 <h4>☁ Cloud Experience: </h4>
 <p>
+<a target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat"/></a>
 <a target="_blank"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-white?logo=digitalocean&logoColor=blue&style=flat"/></a>
 <a target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Azure-white?logo=microsoft-azure&logoColor=blue&style=flat"/></a>
 <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange ?logo=amazon-aws&logoColor=black&style=flat"/></a>
