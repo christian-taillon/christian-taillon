@@ -6,7 +6,7 @@ permalink: /about/
 
 <h1 align = "center"> Hello  world! 😁</h1>
 
-<h2 align="center">`My name is Christian Taillon`</h2>
+<h2 align="center">My name is Christian Taillon</h2>
 
 Christ is my Lord whom I follow the best I can. I am husband to my beautiful bestfriend and a father to a beautiful and wonderful girl. 
 
