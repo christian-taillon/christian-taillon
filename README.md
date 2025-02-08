@@ -57,6 +57,7 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 
 <hr style="width:75%;text-align:center">
 <h4>⚒ Favorite Tools:</h4>
+<p>
 <a target="_blank"><img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat"/></a>
@@ -72,7 +73,7 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal%20Graphs-white?logo=virustotal&logoColor=blue&style=flat"/></a>  <br>
 <p>
 <h4>💻 Favorite OS Flavors: </h4>
-<p  >
+<p>
 <a target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-white?logo=Debian&logoColor=red&style=flat"/></a>
 <a target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Fedora-blue?logo=Fedora&logoColor=light-blue&style=flat"/></a>
 <a target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat"/></a>
@@ -95,7 +96,6 @@ I love to share what little knowledge I've collected as others doing the same ha
 <a target="_blank"><img alt="AgentAITeam" src="https://img.shields.io/badge/-🤖%20Building%20an%20AgenticAI%20Team-green?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="InferenceGovernance" src="https://img.shields.io/badge/-🌐%20Inference%20Governance-yellow?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="LocalLLMs" src="https://img.shields.io/badge/-💻%20Local%20LLMs:AI%20on%20the%20Edge-orange?logo=&logoColor=white&style=flat"/></a>
-<a target="_blank"><img alt="GenAIRAG" src="https://img.shields.io/badge/-🤖🔍%20GenAI%20RAG:%20Retrieval-Augmented%20Generation-pink?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="NetworkForensics" src="https://img.shields.io/badge/-🕵️‍♂️%20Network%20Forensics:Deep%20Packet%20Inspection-darkred?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="EDR" src="https://img.shields.io/badge/-🔍%20Endpoint%20Detection%20and%20Response:%20Advanced-royalblue?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="ElasticSecurity" src="https://img.shields.io/badge/-🌐%20Elastic%20Security:Unified%20Threat%20Protection-lightgreen?logo=&logoColor=white&style=flat"/></a>
