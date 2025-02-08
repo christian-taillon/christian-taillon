@@ -14,6 +14,18 @@ Highly motivated by interest, the responsibility of providing for my family, and
 
 I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning and llm ]. 
 
+## `TL;DR`
+
+🔒 Cybersecurity professional<br>
+🏢 Threat Response Engineer at Grand Canyon Education<br>
+🌐 Leader at Arizona Cyber Threat Response Alliance (ACTRA)<br>
+🛠️ Experienced in SOC Leadership, SIEM, EDR, NTA, and vulnerability management<br>
+🐧 Linux enthusiast and advocate <br>
+🐍 Python enthusiast and open-source contributor<br>
+🎓 Educator and presenter on various cybersecurity topics<br>
+🤝 Passionate about community involvement and knowledge sharing<br>
+
+## `~$ whoami`
 In my day job at [Grand Canyon Education](https://www.gce.com/)'s IT Security team, I work as a Threat Response Engineer. My focus is on deploying, maintaining, or enhancing operational tools for threat detection, prevention, and response using **[SIEM](https://christiant.io/spl)**, **[EDR](https://christiant.io/logscale_beg_guide)**, **[NTA](https://christiant.io/snort-suricata-guide)**. I also lead security efforts in several **Vulnerability** areas: **Code Security**, **Cloud Security**, and **Host Vulnerability Detection**. We maintain  small Threat Huntting practice **[Threat Hunting](https://christiantaillon.medium.com/part-time-threat-hunting-considering-its-efficacy-85598a9d339) and an reliy on a growing **Threat Intelligence** program.
 
 Outside work, I am a strong believe in the effecicacy and efficiency of OpenSource with minor contributions to the [OpenWebUI](https://openwebui.com/u/christiant/) community and a decently active GitHub with with most of my repositories being public (MIT/Apache Licensed). 
@@ -21,7 +33,7 @@ Outside work, I am a strong believe in the effecicacy and efficiency of OpenSour
 I also contribute to the **Threat Intelligence** community via my role in leading the [Arizona Cyber Threat Response Alliance](https://actraaz.org/), Threat Hunting Presenations such as [Beconimg the Predator and Not the Prey](https://www.youtube.com/watch?v=f4kPxj9jzqU) and [Qbot: Can Ducks Teach us to Shre](https://www.youtube.com/live/UDQAMxdofkY?si=B9sX04JDvrZsltn5), research and content development such as [Log4Shell Hunt](https://github.com/christian-taillon/log4shell-hunting) and [Sunburst Hunt](https://github.com/christian-taillon/sunburst-hunting). It is in both a [Grand Canyon University](https://www.gcu.edu/) capacity and an ACTRA capacity that I support a growing student ThreatIntelligence Academy and Apprentiship Program [TISU](https://www.youtube.com/watch?v=_4uO6nu93I8).
 
 When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. <br> <br>
-#### Current Roles
+## Current Roles
 In Cybersecurity, we don't have the luxury of time. Our work demands persistence, proactivity, and collaboration. I believe that you don't need to work at the same company to be on the same team.
 
 [Grand Canyon Education](https://www.gce.com/) <br>
@@ -83,7 +95,19 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange ?logo=amazon-aws&logoColor=black&style=flat"/></a>
 </p>
 <h4> ‍🖼️ Topics I Can Readily Present On</h4>
-<p>
+<p> 
+I love to share what little knowledge I've collected as others doing the same has been a big part of whats allowed me to enjoy a successful career in Cyber and IT. Please reachout if I can share on any of the following topics: 
+
+<a target="_blank"><img alt="GenAIInCyber" src="https://img.shields.io/badge/-🤖%20GenAI%20in%20CyberSecurity-blueviolet?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="OpenWeightModels" src="https://img.shields.io/badge/-🔒%20Safeley%20Running%20OpenWeight%20Models-red?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="AgentAITeam" src="https://img.shields.io/badge/-🤖%20Building%20an%20AgenticAI%20Team-green?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="InferenceGovernance" src="https://img.shields.io/badge/-🌐%20Inference%20Governance-yellow?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="LocalLLMs" src="https://img.shields.io/badge/-💻%20Local%20LLMs:AI%20on%20the%20Edge-orange?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="GenAIRAG" src="https://img.shields.io/badge/-🤖🔍%20GenAI%20RAG:%20Retrieval-Augmented%20Generation-pink?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="NetworkForensics" src="https://img.shields.io/badge/-🕵️‍♂️%20Network%20Forensics:Deep%20Packet%20Inspection-darkred?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="EDR" src="https://img.shields.io/badge/-🔍%20Endpoint%20Detection%20and%20Response:%20Advanced-royalblue?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="ElasticSecurity" src="https://img.shields.io/badge/-🌐%20Elastic%20Security:Unified%20Threat%20Protection-lightgreen?logo=&logoColor=white&style=flat"/></a>
+<a target="_blank"><img alt="AWS_Security" src="https://img.shields.io/badge/-aws🔒%20AWS%20Security:Best%20Practices-purple?logo=aws&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-🐺%20Threat%20Hunting%20Effectively%20-orange?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="CTIHunting" src="https://img.shields.io/badge/-🐺%20CTI%20Driven%20Threat%20Hunting-darkred?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-📈%20Threat%20Intelligence:Make%20Data%20Work%20for%20You-yellow?logo=&logoColor=white&style=flat"/></a> <br>
@@ -92,9 +116,6 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="MallardSpider: QakBot" src="https://img.shields.io/badge/-🕷Mallard%20Spider:%20QakBot-brown?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="ModernSoc" src="https://img.shields.io/badge/-📟%20Modernizing%20The%20SOC-purple?logo=&logoColor=white&style=flat"/></a> <br>
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-📱%20SIEM:%20Centralizing%20SecOps-blue?logo=&logoColor=white&style=flat"/></a>
-</p>
-<h4> 🧰 Workshops I Run</h4>
-<p>
 <a target="_blank"><img alt="SplunkDashboarding" src="https://img.shields.io/badge/-📊%20Splunk%20Advanced%20Dashboard%20Design-green?logo=&logoColor=white&style=flat"/></a>
 <a target="_blank"><img alt="Git4Ops" src="https://img.shields.io/badge/-%20Git4Ops-black?logo=github&logoColor=white&style=flat"/></a> <br>
 <a target="_blank"><img alt="RPi-MineCraft" src="https://img.shields.io/badge/-🥧%20Raspbery%20Pi%20Scripting%20Minecraft:%20Python-pink?logo=&logoColor=white&style=flat"/></a>
