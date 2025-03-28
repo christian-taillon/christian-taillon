@@ -117,23 +117,14 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="RPi-MineCraft" src="https://img.shields.io/badge/-🥧%20Raspbery%20Pi%20Minecraft-pink?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="MemoryForensics" src="https://img.shields.io/badge/-🔍%20Memory%20Forensics-gray?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="Malware Dev: Scripting/Automation Tools" src="https://img.shields.io/badge/-🦠%20Malware%20Development-darkred?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="EDREvasion" src="https://img.shields.io/badge/-🎭%20EDR%20Evasion%20Techniques-purple?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="ZeekHunting" src="https://img.shields.io/badge/-🔍%20Zeek%20Network%20Hunting-blue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="TimeAnalysis" src="https://img.shields.io/badge/-📊%20Statistical%20Time%20Analysis-green?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="GenAITask" src="https://img.shields.io/badge/-🤖%20GenAI%20Task%20Abstraction-blueviolet?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="RedTeaming" src="https://img.shields.io/badge/-🎯%20Modern%20Red%20Team%20Ops-crimson?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="ThreatEmulation" src="https://img.shields.io/badge/-🎭%20Threat%20Actor%20Emulation-navy?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="AISecOps" src="https://img.shields.io/badge/-🤖%20AI%20Powered%20SecOps-teal?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="OSINT" src="https://img.shields.io/badge/-🔎%20OSINT%20Techniques-indigo?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-
 <a target="_blank"><img alt="CloudSecurity" src="https://img.shields.io/badge/-☁️%20Cloud%20Native%20Security-skyblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 </div>
 
