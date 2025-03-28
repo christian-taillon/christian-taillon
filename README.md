@@ -39,6 +39,20 @@ Check out my Website at [christiant.io](https://christiant.io/)
     />
 </a>
 
+<style>
+    img[src*="shields.io"] {
+        border-radius: 8px;
+        overflow: hidden;
+    }
+</style>
+
+<style>
+
+img[alt*="badge"] {
+    border-radius: 8px;
+}
+</style>
+
 <h3 style="text-align: center;">⚒ Favorite Tools</h3>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
 <a target="_blank"><img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
