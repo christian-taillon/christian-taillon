@@ -22,25 +22,7 @@ Check out my Website at [christiant.io](https://christiant.io/)
 🎓 Educator and presenter on various cybersecurity topics<br>
 🤝 Passionate about community involvement and knowledge sharing<br>
 
-## `~$ whoami`
-In my day job at [Grand Canyon Education](https://www.gce.com/)'s IT Security team, I work as a Threat Response Engineer. My focus is on deploying, maintaining, or enhancing operational tools for threat detection, prevention, and response using **[SIEM](https://christiant.io/spl)**, **[EDR](https://christiant.io/logscale_beg_guide)**, **[NTA](https://christiant.io/snort-suricata-guide)**. I also lead security efforts in several **Vulnerability** areas: **Code Security**, **Cloud Security**, and **Host Vulnerability Detection**. We maintain  small Threat Huntting practice **[Threat Hunting](https://christiantaillon.medium.com/part-time-threat-hunting-considering-its-efficacy-85598a9d339)** and an reliy on a growing **Threat Intelligence** program.
-
-Outside work, I am a strong believe in the effecicacy and efficiency of OpenSource with minor contributions to the [OpenWebUI](https://openwebui.com/u/christiant/) community and a decently active GitHub with with most of my repositories being public (MIT/Apache Licensed). 
-
-I also contribute to the **Threat Intelligence** community via my role in leading the [Arizona Cyber Threat Response Alliance](https://actraaz.org/), Threat Hunting Presenations such as [Beconimg the Predator and Not the Prey](https://www.youtube.com/watch?v=f4kPxj9jzqU) and [Qbot: Can Ducks Teach us to Shre](https://www.youtube.com/live/UDQAMxdofkY?si=B9sX04JDvrZsltn5), research and content development such as [Log4Shell Hunt](https://github.com/christian-taillon/log4shell-hunting) and [Sunburst Hunt](https://github.com/christian-taillon/sunburst-hunting). It is in both a [Grand Canyon University](https://www.gcu.edu/) capacity and an ACTRA capacity that I support a growing student ThreatIntelligence Academy and Apprentiship Program [TISU](https://www.youtube.com/watch?v=_4uO6nu93I8).
-
-When AFK, I try to get out and hike, kayak, or explore God's green earth in some capacity with my best friend and biggest supporter, my amazing and wonderful wife. <br> <br>
-## `Current Roles`
-In Cybersecurity, we don't have the luxury of time. Our work demands persistence, proactivity, and collaboration. I believe that you don't need to work at the same company to be on the same team.
-
-[Grand Canyon Education](https://www.gce.com/) <br>
-My day job is as a <b> Threat Response Engineer </b> working out of the <b>Phoenix, Arizona</b> area. .
-
-[Arizona Cyber Threat Response Alliance](https://www.actraaz.org/) <br>
-I am also a <b>Global Watch Center Handler</b> and Core Contributor for ACTRA. I also lead our Threat Intelligence Exchanges, help develop tools for our operations, and I am an instructor at ACTRA's Academy.
-
-[Cyber Resiliency Institute](https://www.cyberresilienceinstitute.org/) <br>
-And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Additionally, on the CRI's Sports-ISAO program, I am a <b>Cyber Observable Threat Hunting Team</b> member. We recently supported the Threat Intelligence operations of the Tokyo Olympics.
+---
 
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
 
@@ -49,6 +31,13 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a target="_blank">
+    <img alt="Fedora" 
+         src="https://img.shields.io/badge/Fedora-blue?logo=Fedora&logoColor=light-blue&style=for-the-badge" 
+         style="border-radius: 8px; overflow: hidden;"
+    />
+</a>
 
 <h3 style="text-align: center;">⚒ Favorite Tools</h3>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
