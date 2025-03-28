@@ -10,8 +10,7 @@ I work in the field of CyberSecurity with hobbies in the domain of : [ linux fos
 
 Check out my Website at [christiant.io](https://christiant.io/)
 
-## Add image from my website in /images/christiant_site.png
-<img src="/images/christiant_site.png" width = 80%>
+![Alt text](/images/christiant_site.png)
 
 ## `TL;DR`
 
@@ -132,7 +131,7 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 </div>
 
 
-
+--- 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%204%20mins-blue)
