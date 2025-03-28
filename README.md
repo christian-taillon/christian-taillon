@@ -8,7 +8,7 @@ Highly curious and motivated by interest, the responsibility of providing for my
 
 I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning llms data-analysis ]. 
 
-Check out my Website at [christiant.io](https://christiant.io/)
+To contact me or see more, check out my Website at [christiant.io](https://christiant.io/about/)
 
 ![site](/images/chiristiant_site.png)
 ## `TL;DR`
@@ -38,20 +38,6 @@ Check out my Website at [christiant.io](https://christiant.io/)
          style="border-radius: 8px; overflow: hidden;"
     />
 </a>
-
-<style>
-    img[src*="shields.io"] {
-        border-radius: 8px;
-        overflow: hidden;
-    }
-</style>
-
-<style>
-
-img[alt*="badge"] {
-    border-radius: 8px;
-}
-</style>
 
 <h3 style="text-align: center;">⚒ Favorite Tools</h3>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
