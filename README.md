@@ -10,6 +10,9 @@ I work in the field of CyberSecurity with hobbies in the domain of : [ linux fos
 
 Check out my Website at [christiant.io](https://christiant.io/)
 
+## Add image from my website in /images/christiant_site.png
+<img src="/images/christiant_site.png" width = 80%>
+
 ## `TL;DR`
 
 🔒 Cybersecurity professional<br>
@@ -127,25 +130,6 @@ And finally, I recently joined the CRI as a <b>Solutions Architect</b>. Addition
 <a target="_blank"><img alt="OSINT" src="https://img.shields.io/badge/-🔎%20OSINT%20Techniques-indigo?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="CloudSecurity" src="https://img.shields.io/badge/-☁️%20Cloud%20Native%20Security-skyblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 </div>
-
-<div style="text-align: center">
-<h3 style="text-align:center">Find me on</h3>
-<p style="text-align:center"> <a href="https://github.com/christian-taillon" target="_blank"><img alt="Github"
-src="https://img.shields.io/badge/GitHub-black?&style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://github.com/christian-taillon" target="_blank"><img alt="Medium"
-src="https://img.shields.io/badge/Medium-white?&style=flat&logo=medium&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/christiantaillon/" target="_blank"><img alt="LinkedIn"
-src="https://img.shields.io/badge/Linkedin-white?&style=flat&logo=linkedin&logoColor=blue" /></a>
-<a href="https://www.virustotal.com/gui/user/christianblueteam/graphs" target="_blank"><img alt="VirusTotal"
-src="https://img.shields.io/badge/VirusTotal-white?&style=flat&logo=virustotal&logoColor=blue" /></a>
-<a href="https://exchange.xforce.ibmcloud.com/user/me/aboutme" target="_blank"><img alt="IBM"
-src="https://img.shields.io/badge/XForce-004BA8?&style=flat&logo=ibm&logoColor=white" /></a>
-<a href="https://twitter.com/christian_tail" target="_blank"><img alt="twitter"
-src="https://img.shields.io/badge/Twitter-white?&style=flat&logo=twitter&logoColor=blue" /></a>
-<a href="https://otx.alienvault.com/user/tufteam67/pulses" target="_blank"><img alt="OTX"
-src="https://img.shields.io/badge/OpenThreatExchange-black?&style=flat&logo=atom&logoColor=white" /></a>
-</p>
- </div>
 
 
 
