@@ -122,7 +122,7 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.1%20thousand%20lines%20of%20code-blue)
 
@@ -130,11 +130,11 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 
 > 📦 244.0 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2025
+> 🏆 131 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 57 Public Repositories 
+> 📜 58 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -165,18 +165,13 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-sh                       4 hrs 44 mins       ████████████████████░░░░░   78.60 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-AutoHotkey               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+sh                       54 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      4 hrs 44 mins       ████████████████████░░░░░   78.60 % 
-VS Code                  1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Zsh                      54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -196,5 +191,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 20:33:30 UTC
+ Last Updated on 19/04/2025 20:34:21 UTC
 <!--END_SECTION:waka-->
