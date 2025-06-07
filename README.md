@@ -122,13 +122,13 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 244.0 kB Used in GitHub's Storage 
+> 📦 244.1 kB Used in GitHub's Storage 
  > 
 > 🏆 136 Contributions in the Year 2025
  > 
@@ -165,15 +165,13 @@ Sunday                   68 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-sh                       1 hr 53 mins        █████████████████████████   99.43 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+sh                       1 hr 39 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      1 hr 53 mins        █████████████████████████   99.43 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Zsh                      1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -193,5 +191,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 20:34:24 UTC
+ Last Updated on 07/06/2025 20:34:52 UTC
 <!--END_SECTION:waka-->
