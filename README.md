@@ -122,7 +122,7 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.3%20thousand%20lines%20of%20code-blue)
 
@@ -165,13 +165,13 @@ Sunday                   68 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-sh                       1 hr                █████████████████████████   100.00 % 
+sh                       33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      1 hr                █████████████████████████   100.00 % 
+Zsh                      33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Linux                    33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +191,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2025 20:35:00 UTC
+ Last Updated on 12/07/2025 20:35:52 UTC
 <!--END_SECTION:waka-->
