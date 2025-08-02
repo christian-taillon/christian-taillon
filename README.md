@@ -122,7 +122,7 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.2%20thousand%20lines%20of%20code-blue)
 
@@ -165,13 +165,18 @@ Sunday                   65 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-sh                       10 mins             █████████████████████████   100.00 % 
+YAML                     1 hr 48 mins        ███████████████░░░░░░░░░░   59.45 % 
+sh                       45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Zsh                      10 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       ███████████████████░░░░░░   75.29 % 
+Zsh                      45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +196,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 20:36:06 UTC
+ Last Updated on 02/08/2025 20:36:27 UTC
 <!--END_SECTION:waka-->
