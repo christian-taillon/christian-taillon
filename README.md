@@ -165,18 +165,13 @@ Sunday                   65 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-YAML                     1 hr 48 mins        ███████████████░░░░░░░░░░   59.45 % 
-sh                       45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ███████████████████░░░░░░   75.29 % 
-Zsh                      45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -196,5 +191,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 20:36:27 UTC
+ Last Updated on 09/08/2025 20:36:04 UTC
 <!--END_SECTION:waka-->
