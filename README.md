@@ -165,13 +165,14 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████░░░░   84.44 % 
+Python                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +192,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 20:34:23 UTC
+ Last Updated on 30/08/2025 20:33:39 UTC
 <!--END_SECTION:waka-->
