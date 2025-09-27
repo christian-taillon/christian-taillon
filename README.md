@@ -122,28 +122,30 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.7%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%201%20min-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 277.1 kB Used in GitHub's Storage 
+> 📦 278.2 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2025
+> 🏆 175 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████████░░░░░░░░░░░░   53.33 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-AutoIt                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Python                   24 repos            █████████████░░░░░░░░░░░░   51.06 % 
+Shell                    8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+AutoIt                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -153,5 +155,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 20:33:08 UTC
+ Last Updated on 27/09/2025 20:33:59 UTC
 <!--END_SECTION:waka-->
