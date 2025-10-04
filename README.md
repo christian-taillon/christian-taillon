@@ -122,19 +122,19 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 278.2 kB Used in GitHub's Storage 
+> 📦 278.6 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2025
+> 🏆 191 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 64 Public Repositories 
+> 📜 63 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -155,5 +155,5 @@ AutoIt                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 20:33:59 UTC
+ Last Updated on 04/10/2025 20:33:39 UTC
 <!--END_SECTION:waka-->
