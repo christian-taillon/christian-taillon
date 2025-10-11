@@ -124,28 +124,64 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 278.6 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2025
+> 🏆 196 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 54 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌆 Daytime                497 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
+🌃 Evening                296 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Wednesday                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Thursday                 214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Friday                   243 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Saturday                 59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Phoenix
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████████░░░░░░░░░░░░   51.06 % 
-Shell                    8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-AutoIt                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   23 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Shell                    8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+AutoIt                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -155,5 +191,5 @@ AutoIt                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 20:33:39 UTC
+ Last Updated on 11/10/2025 20:33:41 UTC
 <!--END_SECTION:waka-->
