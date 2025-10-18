@@ -122,7 +122,7 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.4%20thousand%20lines%20of%20code-blue)
 
@@ -130,7 +130,7 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 
 > 📦 278.6 kB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2025
+> 🏆 197 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,21 +141,21 @@ To contact me or see more, check out my Website at [christiant.io](https://chris
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌆 Daytime                497 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
-🌃 Evening                296 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+🌞 Morning                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌆 Daytime                497 commits         ███████████░░░░░░░░░░░░░░   42.23 % 
+🌃 Evening                296 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Wednesday                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Friday                   243 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Saturday                 59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Monday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Wednesday                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Friday                   243 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Saturday                 60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Sunday                   59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 
 
@@ -165,13 +165,13 @@ Sunday                   59 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -191,5 +191,5 @@ AutoIt                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2025 20:33:41 UTC
+ Last Updated on 18/10/2025 20:33:48 UTC
 <!--END_SECTION:waka-->
