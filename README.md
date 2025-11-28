@@ -4,11 +4,16 @@
   </a>
 </h1>
 
-I have a beautiful wife and beautiful daughters.
+Highly curious and motivated by interest, with a concern but also an optimism for the future.
 
-Highly curious and motivated by interest, the responsibility of providing for my family, and a concern but also an optimism for the future.
+I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobbies include: [ linux foss development cti machine-learning llms data-analysis ].
 
-I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobbies include: [ linux foss development cti machine-learning llms data-analysis ]. 
+<p align="center">
+  <a href="https://christiant.io"><b>christiant.io</b></a> •
+  <a href="https://darkroastcyber.io"><b>Dark Roast Cyber</b></a> •
+  <a href="https://actraaz.org"><b>ACTRA</b></a> •
+  <a href="https://gce.com"><b>GCE</b></a>
+</p> 
 
 
 ## `TL;DR`
