@@ -4,11 +4,11 @@
   </a>
 </h1>
 
-Christ is my Lord whom I follow the best I can. I am husband to my beautiful bestfriend and a father to a beautiful and wonderful girl. 
+I have a beautiful wife and beautiful daughters.
 
 Highly curious and motivated by interest, the responsibility of providing for my family, and a concern but also an optimism for the future.
 
-I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning llms data-analysis ]. 
+I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobbies include: [ linux foss development cti machine-learning llms data-analysis ]. 
 
 
 ## `TL;DR`
