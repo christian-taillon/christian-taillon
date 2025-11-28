@@ -1,6 +1,8 @@
-<h1 align = "center"> Hello  world! 😁</h1>
-
-<h2 align="center">My name is Christian Taillon</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Hello+World!;I+am+Christian+Taillon;Cybersecurity+Professional;Linux+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 Christ is my Lord whom I follow the best I can. I am husband to my beautiful bestfriend and a father to a beautiful and wonderful girl. 
 
@@ -8,19 +10,16 @@ Highly curious and motivated by interest, the responsibility of providing for my
 
 I work in the field of CyberSecurity with hobbies in the domain of : [ linux foss development cti machine-learning llms data-analysis ]. 
 
-To contact me or see more, check out my Website at [christiant.io](https://christiant.io/about/)
 
-![site](/images/chiristiant_site.png)
 ## `TL;DR`
 
 🔒 Cybersecurity professional<br>
 🏢 Threat Response Engineer at Grand Canyon Education<br>
-🌐 Leader at Arizona Cyber Threat Response Alliance (ACTRA)<br>
+☕ Primarily developing with **Dark Roast Cyber** customers<br>
+🤝 Active with @Dark-Roast-Cyber, @Arizona-Cyber-Threat-Response-Alliance, @CISO-in-a-Box<br>
 🛠️ Experienced in SOC Leadership, SIEM, EDR, NTA, and vulnerability management<br>
 🐧 Linux enthusiast and advocate <br>
 🐍 Python enthusiast and open-source contributor<br>
-🎓 Educator and presenter on various cybersecurity topics<br>
-🤝 Passionate about community involvement and knowledge sharing<br>
 
 ---
 
