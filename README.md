@@ -128,64 +128,28 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 352.3 kB Used in GitHub's Storage 
+> 📦 352.1 kB Used in GitHub's Storage 
  > 
-> 🏆 394 Contributions in the Year 2025
+> 🏆 447 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 59 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                377 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-🌆 Daytime                583 commits         █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌃 Evening                378 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌙 Night                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Friday                   277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Saturday                 276 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Sunday                   65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Phoenix
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ████████████░░░░░░░░░░░░░   47.27 % 
-Shell                    8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   27 repos            ████████████░░░░░░░░░░░░░   46.55 % 
+Shell                    8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -195,5 +159,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2025 20:35:42 UTC
+ Last Updated on 29/11/2025 20:37:18 UTC
 <!--END_SECTION:waka-->
