@@ -30,7 +30,6 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 
 <a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
 
-<a target="_blank"><img alt="Azure" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-taillon&layout=compact&theme=vue-dark"/></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-taillon&theme=vue-dark" alt="christian-taillon"/></p>
 <br>
 
@@ -154,10 +153,4 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
-
-
- Last Updated on 29/11/2025 20:37:18 UTC
 <!--END_SECTION:waka-->
