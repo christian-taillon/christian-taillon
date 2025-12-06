@@ -127,13 +127,13 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 352.1 kB Used in GitHub's Storage 
  > 
-> 🏆 447 Contributions in the Year 2025
+> 🏆 493 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,4 +153,10 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/12/2025 20:36:16 UTC
 <!--END_SECTION:waka-->
