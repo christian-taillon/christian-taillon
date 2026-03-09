@@ -28,12 +28,7 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 
 ---
 
-<a target="_blank"><img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=christian-taillon&show_icons=true&theme=vue-dark"/></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-taillon&theme=vue-dark" alt="christian-taillon"/></p>
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 style="text-align: center;">⚒ Favorite Tools</h3>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
