@@ -6,7 +6,7 @@
 
 Highly curious and motivated by interest, with a concern but also an optimism for the future.
 
-I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobbies include: [ linux foss development cti machine-learning llms data-analysis ].
+My hobbies include: [ linux foss development cti machine-learning llms data-analysis ].
 
 <p align="center">
   <a href="https://christiant.io"><b>christiant.io</b></a> •
@@ -35,13 +35,6 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=christian-taillon&theme=chalk&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a target="_blank">
-    <img alt="Fedora" 
-         src="https://img.shields.io/badge/Fedora-blue?logo=Fedora&logoColor=light-blue&style=for-the-badge" 
-         style="border-radius: 8px; overflow: hidden;"
-    />
-</a>
-
 <h3 style="text-align: center;">⚒ Favorite Tools</h3>
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
 <a target="_blank"><img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
@@ -56,7 +49,7 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <a target="_blank"><img alt="ELK" src="https://img.shields.io/badge/ELK-white?logo=elastic&logoColor=pink&style=for-the-badge" style="border-radius: 8px; border: 1px solid black;"/></a> 
 <a target="_blank"><img alt="Podman" src="https://img.shields.io/badge/Podman-white?logo=podman&logoColor=purple&style=for-the-badge" style="border-radius: 8px; border: 1px solid black;"/></a>
 <a target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=yellow&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="IBM Threat Exchange" src="https://img.shields.io/badge/XForce-004BA8?logo=IBM&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+
 <a target="_blank"><img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal%20Graphs-white?logo=virustotal&logoColor=blue&style=for-the-badge" style="border-radius: 8px; border: 1px solid black;"/></a>
 </div>
 
@@ -65,9 +58,9 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <h3 style="text-align: center;">💻 Favorite OS Flavors</h3>
 <div style="text-align: center; margin-bottom: 30px;">
 <a target="_blank"><img alt="Debian" src="https://img.shields.io/badge/Debian-white?logo=Debian&logoColor=red&style=for-the-badge" style="border-radius: 8px; border: 1px solid black;"/></a>
-<a target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-blue?logo=Fedora&logoColor=light-blue&style=for-the-badge" style="border-radius: 8px;"/></a>
+
 <a target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+
 </div>
 
 ---
@@ -78,7 +71,9 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <a target="_blank"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-white?logo=digitalocean&logoColor=blue&style=for-the-badge" style="border-radius: 8px; border: 1px solid black;"/></a>
 <a target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange?logo=amazonwebservices&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="Cloudflare Access" src="https://img.shields.io/badge/Cloudflare%20Access-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="Microsoft Entra" src="https://img.shields.io/badge/Microsoft_Entra-00A4EF?logo=microsoftazure&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 </div>
 
 ---
@@ -96,7 +91,7 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <a target="_blank"><img alt="NetworkForensics" src="https://img.shields.io/badge/-🕵️‍♂️%20Network%20Forensics-darkred?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="EDR" src="https://img.shields.io/badge/-🔍%20Endpoint%20Detection%20and%20Response-royalblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="ElasticSecurity" src="https://img.shields.io/badge/-🌐%20Elastic%20Security-lightgreen?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="AWS_Security" src="https://img.shields.io/badge/-aws🔒%20AWS%20Security-purple?logo=aws&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+
 <a target="_blank"><img alt="Hunting" src="https://img.shields.io/badge/-🐺%20Threat%20Hunting-orange?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="CTIHunting" src="https://img.shields.io/badge/-🐺%20CTI%20Driven%20Threat%20Hunting-darkred?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="ThreatIntel" src="https://img.shields.io/badge/-📈%20Threat%20Intelligence-yellow?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
@@ -119,6 +114,20 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 <a target="_blank"><img alt="AISecOps" src="https://img.shields.io/badge/-🤖%20AI%20Powered%20SecOps-teal?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="OSINT" src="https://img.shields.io/badge/-🔎%20OSINT%20Techniques-indigo?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="CloudSecurity" src="https://img.shields.io/badge/-☁️%20Cloud%20Native%20Security-skyblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="CTIOperationalization" src="https://img.shields.io/badge/-🎯%20Operationalizing%20CTI%20for%20Detection-steelblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="LLMHardening" src="https://img.shields.io/badge/-🔒%20Hardening%20LLM%20Inference-red?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="GenAIRisk" src="https://img.shields.io/badge/-⚠️%20GenAI%20Risk%20Management-amber?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="CoOpSecGenAI" src="https://img.shields.io/badge/-🤝%20Co-Op%20SecOps%20GenAI-green?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="AntigenicAI" src="https://img.shields.io/badge/-🧬%20Antigenic%20AI-purple?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="CrowdStrikeLessons" src="https://img.shields.io/badge/-📚%20CrowdStrike%20Lessons%20Learned-darkblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="LocalLLMInfoSec" src="https://img.shields.io/badge/-🏠%20On-Prem%20LLM%20for%20InfoSec-orange?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="BlackBastaBeacon" src="https://img.shields.io/badge/-🕷️%20BlackBasta%20Beacon%20Analysis-black?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="AlertFatigue" src="https://img.shields.io/badge/-📊%20Risk-Based%20Alert%20Analysis-teal?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="AtomicRedTeam" src="https://img.shields.io/badge/-💥%20Atomic%20Red%20Team%20Emulation-crimson?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="MITREDEFEND" src="https://img.shields.io/badge/-🛡️%20MITRE%20DEFEND-navy?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="SigmaRulesIntro" src="https://img.shields.io/badge/-📝%20Sigma%20Rules%20Intro-darkorange?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="SigmaAsIoA" src="https://img.shields.io/badge/-🎯%20Sigma%20Rules%20as%20IoA-salmon?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="Log4jAnalysis" src="https://img.shields.io/badge/-🔓%20Log4j%20Threat%20Landscape-darkred?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 </div>
 
 
@@ -126,8 +135,6 @@ I work in the field of CyberSecurity. I build AI Tools and Tools for AI. My hobb
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2033%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -153,10 +160,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
-
-
- Last Updated on 13/12/2025 20:37:39 UTC
+Last Updated on 13/12/2025 20:37:39 UTC
 <!--END_SECTION:waka-->
