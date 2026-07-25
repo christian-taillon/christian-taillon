@@ -127,40 +127,40 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-834.11%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,759 Contributions in the Year 2026
+> 🏆 2,952 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-🌆 Daytime                1164 commits        █████████░░░░░░░░░░░░░░░░   34.98 % 
-🌃 Evening                1242 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
-🌙 Night                  323 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌞 Morning                699 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+🌆 Daytime                1229 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌃 Evening                1505 commits        ██████████░░░░░░░░░░░░░░░   40.01 % 
+🌙 Night                  329 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   630 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Wednesday                580 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 524 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Friday                   521 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Saturday                 282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Sunday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Monday                   696 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Tuesday                  590 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Wednesday                607 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Friday                   635 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Saturday                 388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Sunday                   315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 
@@ -170,31 +170,30 @@ Sunday                   207 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Markdown                 6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Bash                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Python                   2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Other                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-HTML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown                 5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
+Rust                     3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Makefile                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-OpenCode                 8 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-Claude Code              6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Opencode Cli             4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Neovim                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Opencode Cli             9 hrs 2 mins        ██████████████░░░░░░░░░░░   55.19 % 
+OpenCode                 6 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.20 % 
+Neovim                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    21 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -204,5 +203,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 21:39:37 UTC
+ Last Updated on 25/07/2026 21:42:08 UTC
 <!--END_SECTION:waka-->
