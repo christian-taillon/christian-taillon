@@ -127,17 +127,17 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-572%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,967 Contributions in the Year 2026
+> 🏆 4,177 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,21 +148,21 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1058 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-🌆 Daytime                1647 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-🌃 Evening                2214 commits        ██████████░░░░░░░░░░░░░░░   41.48 % 
-🌙 Night                  418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+🌞 Morning                873 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌆 Daytime                1531 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌃 Evening                1832 commits        ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌙 Night                  372 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   984 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Tuesday                  848 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Thursday                 631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   913 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Sunday                   450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Monday                   846 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Tuesday                  638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Wednesday                679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Thursday                 584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Friday                   919 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Saturday                 514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Sunday                   428 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 ```
 
 
@@ -172,15 +172,15 @@ Sunday                   450 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Bash                     3 mins              ████████████████████████░   97.83 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Bash                     16 mins             ███████████░░░░░░░░░░░░░░   45.84 % 
+zsh                      15 mins             ███████████░░░░░░░░░░░░░░   43.59 % 
+tmux                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 
 🔥 Editors: 
-Neovim                   3 mins              ████████████████████░░░░░   80.82 % 
-Opencode Cli             0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Neovim                   36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -206,5 +206,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 22:39:59 UTC
+ Last Updated on 12/09/2026 22:59:46 UTC
 <!--END_SECTION:waka-->
