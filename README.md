@@ -127,42 +127,42 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-572%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,177 Contributions in the Year 2026
+> 🏆 4,446 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 74 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                873 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-🌆 Daytime                1531 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 Evening                1832 commits        ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌙 Night                  372 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+🌞 Morning                862 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+🌆 Daytime                1703 commits        █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌃 Evening                1856 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
+🌙 Night                  373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   846 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Tuesday                  638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Thursday                 584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Friday                   919 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Saturday                 514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Sunday                   428 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Monday                   910 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Tuesday                  611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Wednesday                694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Friday                   1008 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Saturday                 485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Sunday                   428 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 
 
@@ -172,15 +172,17 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-Bash                     16 mins             ███████████░░░░░░░░░░░░░░   45.84 % 
-zsh                      15 mins             ███████████░░░░░░░░░░░░░░   43.59 % 
-tmux                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+JSON                     11 mins             █████████████░░░░░░░░░░░░   50.69 % 
+zsh                      7 mins              █████████░░░░░░░░░░░░░░░░   36.58 % 
+Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Neovim                   36 mins             █████████████████████████   100.00 % 
+Neovim                   21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -192,11 +194,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 
 
@@ -206,5 +208,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 22:59:46 UTC
+ Last Updated on 19/09/2026 22:55:11 UTC
 <!--END_SECTION:waka-->
