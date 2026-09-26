@@ -127,17 +127,17 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 --- 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-572%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-572%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,446 Contributions in the Year 2026
+> 🏆 4,731 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,21 +148,21 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                862 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-🌆 Daytime                1703 commits        █████████░░░░░░░░░░░░░░░░   35.52 % 
-🌃 Evening                1856 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌙 Night                  373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+🌞 Morning                1117 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+🌆 Daytime                2091 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
+🌃 Evening                2311 commits        ██████████░░░░░░░░░░░░░░░   38.82 % 
+🌙 Night                  434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   910 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Tuesday                  611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Wednesday                694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Friday                   1008 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Saturday                 485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Sunday                   428 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Monday                   1101 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Tuesday                  829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                911 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Thursday                 746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Friday                   1191 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Saturday                 663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Sunday                   512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 
 
@@ -172,23 +172,39 @@ Sunday                   428 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Phoenix
 
 💬 Programming Languages: 
-JSON                     11 mins             █████████████░░░░░░░░░░░░   50.69 % 
-zsh                      7 mins              █████████░░░░░░░░░░░░░░░░   36.58 % 
-Lua                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TOML                     10 mins             ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Markdown                 10 mins             ████████░░░░░░░░░░░░░░░░░   32.80 % 
+Other                    7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Rust                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🔥 Editors: 
-Neovim                   21 mins             █████████████████████████   100.00 % 
+Neovim                   24 mins             ████████████████████░░░░░   79.63 % 
+Codex Vscode             6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (25.11%)
+
+✍️ 0 lines written by AI, 255 lines written by hand (0.0% AI-written)
+
+🔤 100,745 Input Tokens, 10,129 Output Tokens
+
+💵 $2.28 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 4,791 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -208,5 +224,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/christian-taillon/christian-taillon/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 22:55:11 UTC
+ Last Updated on 26/09/2026 23:41:14 UTC
 <!--END_SECTION:waka-->
