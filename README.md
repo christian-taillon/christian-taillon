@@ -189,32 +189,6 @@ Opencode Cli             2 mins              ░░░░░░░░░░░�
 Linux                    27 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 27 hrs 9 mins (99.5%)
-
-✍️ 13,927 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 20,971,662 Input Tokens, 4,254,588 Output Tokens
-
-💵 $483.53 Estimated AI Cost This Week
-
-🧠 123 AI Sessions, 382 AI Prompts
-
-Opus                     11,748 lines        █████████████████████░░░░   82.78 % 
-Neovim                   1,584 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Grok                     513 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-GPT                      346 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Haiku                    1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,774 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text

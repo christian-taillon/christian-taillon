@@ -17,3 +17,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_AI_CODING: "False"
