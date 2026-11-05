@@ -63,7 +63,6 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 <a target="_blank"><img alt="Cloudflare Workers" src="https://img.shields.io/badge/cloudflareworkers-F38020?logo=cloudflareworkers&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-white?logo=digitalocean&logoColor=blue&style=for-the-badge" style="border-radius: 8px; border: 1px solid black;"/></a>
 <a target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="Cloudflare Access" src="https://img.shields.io/badge/Cloudflare%20Access-F38020?logo=cloudflare&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="Microsoft Entra" src="https://img.shields.io/badge/Microsoft_Entra-00A4EF?logo=microsoftazure&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
