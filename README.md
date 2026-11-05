@@ -110,12 +110,12 @@ My hobbies include: [ linux foss development cti machine-learning llms data-anal
 <a target="_blank"><img alt="CTIOperationalization" src="https://img.shields.io/badge/-🎯%20Operationalizing%20CTI%20for%20Detection-steelblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="LLMHardening" src="https://img.shields.io/badge/-🔒%20Hardening%20LLM%20Inference-red?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="GenAIRisk" src="https://img.shields.io/badge/-⚠️%20GenAI%20Risk%20Management-amber?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="CoOpSecGenAI" src="https://img.shields.io/badge/-🤝%20Co-Op%20SecOps%20GenAI-green?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="CoOpSecGenAI" src="https://img.shields.io/badge/-🤝%20Co--Op%20SecOps%20GenAI-green?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="AntigenicAI" src="https://img.shields.io/badge/-🧬%20Antigenic%20AI-purple?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="CrowdStrikeLessons" src="https://img.shields.io/badge/-📚%20CrowdStrike%20Lessons%20Learned-darkblue?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="LocalLLMInfoSec" src="https://img.shields.io/badge/-🏠%20On-Prem%20LLM%20for%20InfoSec-orange?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="LocalLLMInfoSec" src="https://img.shields.io/badge/-🏠%20On--Prem%20LLM%20for%20InfoSec-orange?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="BlackBastaBeacon" src="https://img.shields.io/badge/-🕷️%20BlackBasta%20Beacon%20Analysis-black?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
-<a target="_blank"><img alt="AlertFatigue" src="https://img.shields.io/badge/-📊%20Risk-Based%20Alert%20Analysis-teal?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
+<a target="_blank"><img alt="AlertFatigue" src="https://img.shields.io/badge/-📊%20Risk--Based%20Alert%20Analysis-teal?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="AtomicRedTeam" src="https://img.shields.io/badge/-💥%20Atomic%20Red%20Team%20Emulation-crimson?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="MITREDEFEND" src="https://img.shields.io/badge/-🛡️%20MITRE%20DEFEND-navy?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
 <a target="_blank"><img alt="SigmaRulesIntro" src="https://img.shields.io/badge/-📝%20Sigma%20Rules%20Intro-darkorange?logo=&logoColor=white&style=for-the-badge" style="border-radius: 8px;"/></a>
