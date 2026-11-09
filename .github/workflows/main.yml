@@ -2,17 +2,33 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12pm Arizona Time
+    # Saturday 20:30 UTC (13:30 Arizona MST).
     - cron: '30 20 * * 6'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      # WakaTime API keys are write-only and cannot read stats.
+      # Set WAKATIME_OAUTH_TOKEN to the personal OAuth token from
+      # https://wakatime.com/oauth (not the editor/plugin API key).
+      # Upstream accepts an OAuth token in its WAKATIME_API_KEY input.
+      - name: Verify WakaTime OAuth token is configured
+        env:
+          WAKATIME_OAUTH_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
+        run: |
+          if [ -z "$WAKATIME_OAUTH_TOKEN" ]; then
+            echo "::error::Set repository secret WAKATIME_OAUTH_TOKEN to your personal token from https://wakatime.com/oauth"
+            exit 1
+          fi
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
