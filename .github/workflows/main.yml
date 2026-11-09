@@ -13,6 +13,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       # WakaTime API keys are write-only and cannot read stats.
       # Set WAKATIME_OAUTH_TOKEN to the personal OAuth token from
@@ -31,6 +32,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
+          # Full commit-history and LOC scans have taken 40-65+ minutes.
+          # Keep lightweight weekly WakaTime and repository-language metrics.
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          MAX_REPOS: "15"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_AI_CODING: "False"
