@@ -150,7 +150,7 @@ I build security tools and contribute to community threat intelligence projects.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6,166 Contributions in the Year 2026
+> 🏆 6,167 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -181,18 +181,18 @@ Vim                      0 secs              ░░░░░░░░░░░�
 Linux                    37 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in Python** 
 
 ```text
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Handlebars               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+PowerShell               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Rust                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 10/11/2026 05:25:03 UTC
+ Last Updated on 10/11/2026 05:51:01 UTC
 <!--END_SECTION:waka-->
