@@ -31,6 +31,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Use workflow-scoped token for publishing; GH_TOKEN is only for stats.
+          PUSH_TOKEN: ${{ github.token }}
           SHOW_PROJECTS: "False"
           # Full commit-history and LOC scans have taken 40-65+ minutes.
           # Keep lightweight weekly WakaTime and repository-language metrics.
